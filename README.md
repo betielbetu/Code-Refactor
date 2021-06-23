@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./assets/images/01-html-css-git-homework-demo.png)
 
 
 
@@ -39,11 +39,11 @@ The following image shows the web application's appearance and functionality:
 
 ## Review
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the deployed application:
+
+* The URL of the GitHub repository: https://github.com/betielbetu/Code-Refactor
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
